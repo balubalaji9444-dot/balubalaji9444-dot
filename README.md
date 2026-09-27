@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi, I'm Sri Balaji Prasad Neelathi 
 
-<!--
-**balubalaji9444-dot/balubalaji9444-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Data Analyst | Python | SQL | Excel | Power BI | Tableau
 
-Here are some ideas to get you started:
+Turning raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ About Me
+
+I'm a B.Sc. Computer Science graduate with a strong interest in Data Analytics, Data Science, and Machine Learning.
+
+I enjoy exploring datasets, finding patterns, building dashboards, and presenting insights in a simple and meaningful way.
+
+Currently, I'm strengthening my skills in SQL, Python, Excel, Power BI, and Tableau while building practical projects to improve my real-world data analysis skills.
+
+ What I Work With
+
+-  Python — Pandas, NumPy, Matplotlib, Seaborn
+-  SQL — MySQL, data querying & analysis
+-  Visualization — Power BI, Tableau, Excel
+-  Machine Learning — Scikit-learn, Classification & Clustering
+-  Tools — Jupyter Notebook, Google Colab, VS Code, GitHub
+
+ What I'm Currently Doing
+
+- Building data analytics projects
+- Practicing SQL and data cleaning
+- Creating interactive dashboards
+- Learning advanced data analysis techniques
+- Exploring real-world applications of AI and Machine Learning
+
+ Career Focus
+
+Data Analytics | Data Science | Business Analytics | AI/ML
+
+ Let's Connect
+
+I'm open to entry-level opportunities, internships, collaborations, and data-related projects.
+
+"LinkedIn" (https://linkedin.com/in/sri-balaji-prasad-neelathi-9a89aa287) · "GitHub" (https://github.com/balubalaji9444-dot)
